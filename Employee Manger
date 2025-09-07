@@ -1,0 +1,6 @@
+EmployeeManager/
+├── index.html
+├── style.css
+├── app.js
+├── config.js (JsonPowerDB credentials)
+└── README.md
