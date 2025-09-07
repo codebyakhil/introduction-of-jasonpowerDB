@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Employee Record Manager</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Employee Record Manager</h1>
+  <form id="empForm">
+    <label>Employee ID:</label>
+    <input type="text" id="empId" required><br>
+
+    <label>Name:</label>
+    <input type="text" id="empName" required><br>
+
+    <label>Department:</label>
+    <input type="text" id="department" required><br>
+
+    <label>Salary:</label>
+    <input type="number" id="salary" required><br>
+
+    <button type="button" onclick="saveRecord()">Save</button>
+    <button type="button" onclick="getRecord()">Search</button>
+    <button type="button" onclick="updateRecord()">Update</button>
+    <button type="reset">Reset</button>
+  </form>
+
+  <div id="result"></div>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
