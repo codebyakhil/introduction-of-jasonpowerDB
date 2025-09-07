@@ -1,0 +1,25 @@
+📁 Project Title: Employee Record Manager using JsonPowerDB
+🎯 Objective:
+Create a web-based app to manage employee records — add, update, search, and delete — using JsonPowerDB as the backend database.
+
+🛠 Tech Stack:
+Layer	Technology
+Frontend	HTML, CSS, JavaScript
+Backend	JsonPowerDB REST API
+Hosting	GitHub Pages (optional)
+📋 Features:
+➕ Add new employee (ID, Name, Department, Salary)
+
+🔍 Search employee by ID
+
+✏️ Update employee details
+
+❌ Delete employee record
+
+🧹 Reset form fields
+
+✅ Form validation
+
+⚡ Fast response using JsonPowerDB
+
+
