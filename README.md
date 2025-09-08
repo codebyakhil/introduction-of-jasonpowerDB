@@ -1,6 +1,6 @@
 # Employee Record Manager - JsonPowerDB V2.0
 
-This micro project is built by [codebynakhil](https://github.com/codebynakhil) as part of the JsonPowerDB V2.0 assignment.
+This micro project is built by [codebyakhil](https://github.com/codebyakhil) as part of the JsonPowerDB V2.0 assignment.
 
 ## 🔧 Technologies Used
 - HTML, CSS, JavaScript
